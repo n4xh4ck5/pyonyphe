@@ -13,7 +13,8 @@ Install dependencies with pip:
 
 The first version 1.0
 
-# Version
+# Usage
+
 <pre>
 python3 pyonyphe.py <<IPs>>
 python3 pyonyphe.py ip.txt
