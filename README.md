@@ -16,7 +16,8 @@ The first version 1.0
 # Usage
 
 <pre>
-python3 pyonyphe.py <<IPs>>
+python3 pyonyphe.py IP_file.txt
+
 python3 pyonyphe.py ip.txt
 
 	                                                                                                              
@@ -66,5 +67,4 @@ Web: fwhibbit.es
 
 # Disclamer
 
-The use of this tool is your responsability. I hereby disclaim any responsibility for actions taken with this tool.                          
-                                                  
+The use of this tool is your responsability. I hereby disclaim any responsibility for actions taken with this tool.                                                                       
