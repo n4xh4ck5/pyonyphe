@@ -15,8 +15,8 @@ The first version 1.0
 
 # Version
 <pre>
-
-python pyonyphe.py ip.txt
+python3 pyonyphe.py <<IPs>>
+python3 pyonyphe.py ip.txt
 
 	                                                                                                              
 		                                                            $$\                 
